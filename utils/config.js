@@ -1,1 +1,5 @@
-const gitPath  = 'direct:https://gitee.com/Remons/webpack_demo.git'
+const gitPath  = 'direct:https://gitee.com/Remons/webpack_demo.git';
+
+module.exports = {
+  gitPath
+}
