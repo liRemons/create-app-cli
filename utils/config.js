@@ -1,4 +1,4 @@
-const gitPath  = 'direct:https://gitee.com/Remons/webpack_demo.git';
+const gitPath  = 'direct:https://gitee.com/Remons/create-react-static.git';
 
 module.exports = {
   gitPath

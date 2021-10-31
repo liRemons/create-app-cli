@@ -1,6 +1,6 @@
 {
   "name": "remons-create-react-static",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "react 静态化构建解决方案",
   "main": "index.js",
   "scripts": {
