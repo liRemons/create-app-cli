@@ -35,6 +35,6 @@
 
 ##### 使用
 
-- 创建 `remons-spa create-react-app 'your project name'`
+- 创建 `remons-spa create-react 'your project name'`
 - 运行 `cd 'your project name dir'` && `npm run start`
 - 打包 `npm run build`
