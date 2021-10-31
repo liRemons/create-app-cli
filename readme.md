@@ -31,7 +31,7 @@
 
 ##### 介绍
 
-基于 `react`搭建的静态化脚手架，内置`antd`、`mobx`，参考 [create-react](https://gitee.com/Remons/create-react)
+基于 `react`搭建的脚手架，内置`antd`、`mobx`，参考 [create-react](https://gitee.com/Remons/create-react)
 
 ##### 使用
 
