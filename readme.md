@@ -38,3 +38,19 @@
 - 创建 `remons-spa create-react 'your project name'`
 - 运行 `cd 'your project name dir'` && `npm run start`
 - 打包 `npm run build`
+
+#### `create-vue`
+
+##### 使用
+
+- 创建 `remons-spa create-vue 'your project name'`
+- 运行 `cd 'your project name dir'` && `npm run start`
+- 打包 `npm run build`
+
+#### `create-vue@next`
+
+##### 使用
+
+- 创建 `remons-spa create-vue@next 'your project name'`
+- 运行 `cd 'your project name dir'` && `npm run start`
+- 打包 `npm run build`
