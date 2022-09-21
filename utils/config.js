@@ -1,9 +1,9 @@
 const gitPathReactStatic =
-  "direct:https://gitee.com/Remons/create-react-static.git";
-const gitPathReact = "direct:https://gitee.com/Remons/create-react.git";
-const gitPathVue = "direct:https://gitee.com/Remons/create-vue.git";
-const gitPathVueNext = "direct:https://gitee.com/Remons/create-vue-next.git";
-const gitPathVueNextStatic = 'direct:https://gitee.com/Remons/create-vue-next-static.git'
+  "direct:https://github.com/liRemons/create-react-static.git";
+const gitPathReact = "direct:https://github.com/liRemons/create-react.git";
+const gitPathVue = "direct:https://github.com/liRemons/create-vue.git";
+const gitPathVueNext = "direct:https://github.com/liRemons/create-vue-next.git";
+const gitPathVueNextStatic = 'direct:https://github.com/liRemons/create-vue-next-static.git'
 
 module.exports = {
   gitPathReactStatic,

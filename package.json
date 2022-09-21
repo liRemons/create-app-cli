@@ -1,6 +1,6 @@
 {
   "name": "remons-create-app",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "单页面构建解决方案",
   "main": "index.js",
   "scripts": {
